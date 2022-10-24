@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    border: 2px solid teal;
+    border-radius: 10px;
+    background-color: bisque;
+}
+body{
+   background-color: blue;
+}
+h2{
+    text-transform: capitalize;
+    border: 2px solid teal;
+    border-radius: 10px;
+    background-color: bisque;
+}
+body{
+    background-color: aqua;
+}
+ul{
+    color: brown;
+}
