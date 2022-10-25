@@ -24,3 +24,9 @@ body{
 ul{
     color: rgb(131, 105, 155);
 }
+#signature{
+    color: blue; text-align: center;
+}
+.serment{
+    color: brown;
+}
